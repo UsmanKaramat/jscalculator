@@ -1,2 +1,2 @@
 # jscalculator
-maths calculator , code written in html css and javascript
+It is a Maths calculator. Its code is written in html, inline css.
